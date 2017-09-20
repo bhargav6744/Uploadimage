@@ -1,0 +1,6 @@
+framework module Pods_Uploadimg {
+  umbrella header "Pods-Uploadimg-umbrella.h"
+
+  export *
+  module * { export * }
+}
